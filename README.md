@@ -17,7 +17,7 @@ Keras学习过程中的一些项目
 2.文中数据链接：https://pan.baidu.com/s/1wWWs-iG1P6jhx8OOovNT7w 提取码：ssll
 
 #### 4.  [利用Keras进行深度学习](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks) 
-如果你想了解下Seq2seq的话，可以在这里面学习一下1.8
+如果你想了解下Seq2seq的话，可以在这里面学习一下1.8。原作者基于Keras做了很多模型分析
 
 
 
